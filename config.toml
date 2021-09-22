@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Meiko_test'
-theme = "beautifulhugo"
+theme = "ananke"
